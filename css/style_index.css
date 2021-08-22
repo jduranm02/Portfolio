@@ -1,14 +1,7 @@
-.nombre-index{
-    width: center;
-    height: 100px;
-    padding: 200px;
-    text-align: center;
+/*body{
+    background: linear-gradient(rgba(5,7,12,0.75),rgba(5,7,12,0.75)), url(/anexos/claseIMG/pexels-negative-space-97077.jpg);
 }
-iframe{
-    width: 80%;
-    height: 150vh;
-}
-
+*/
 .menu-nav{
     margin-top:10px;
     list-style: none;
@@ -39,11 +32,26 @@ iframe{
 .menu-nav__item a::after{
     content: "   |   ";
 }
- 
-.logos{
-    width:80px;
+.nombre{
+    width: center;
+    height: 100px;
+    padding: 200px;
+    text-align: center;
 }
 
-/*.texto-index{
-    color: white;
-}*/
+.about-me{
+    width:center;
+    text-align: center;
+}
+
+.logos{
+    width: center;
+}
+
+.logos__item{
+    width: 40px;
+    margin: center;
+    display: inline-block;
+    position: center;
+
+}
