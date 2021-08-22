@@ -2,3 +2,36 @@ iframe{
     width: 80%;
     height: 150vh;
 }
+
+.menu-nav{
+    margin-top:10px;
+    list-style: none;
+    padding-left:0;
+    background-color: black;
+    display:inline-block;
+    
+}
+
+.menu-nav__item{
+    display: inline-block;
+    text-align: center;
+}
+ 
+.menu-nav__item a{
+    text-decoration: none;
+    color: white;
+    padding:40px;
+    display: block;
+}
+
+.menu-nav__item a:hover{
+    color: gold;
+}
+
+.menu-nav__item a::after{
+    content: "   |   ";
+}
+ 
+.logos{
+    width:80px;
+}
