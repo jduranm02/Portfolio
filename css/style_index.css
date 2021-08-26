@@ -1,7 +1,6 @@
-/*body{
-    background: linear-gradient(rgba(5,7,12,0.75),rgba(5,7,12,0.75)), url(/anexos/claseIMG/pexels-negative-space-97077.jpg);
+body{
+    background-color: black;
 }
-*/
 .menu-nav{
     margin-top:10px;
     list-style: none;
@@ -34,9 +33,11 @@
 }
 .nombre{
     width: center;
-    height: 100px;
-    padding: 200px;
+    height: 50px;
+    padding: 140px;
     text-align: center;
+    font-size: 100px;
+    color: white;
 }
 
 .about-me{
