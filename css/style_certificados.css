@@ -1,0 +1,12 @@
+.lista_Certificados{
+    font-size: 70px;
+}
+
+.lista{
+    text-decoration: none;
+}
+.lista__item a{
+    text-decoration: none;
+    font-size: 40px;
+    color:white;
+}

@@ -1,5 +1,6 @@
 body{
     background-color: black;
+    color:white;
 }
 .menu-nav{
     margin-top:10px;
@@ -37,7 +38,6 @@ body{
     padding: 140px;
     text-align: center;
     font-size: 100px;
-    color: white;
 }
 
 .about-me{
