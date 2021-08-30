@@ -7,10 +7,19 @@ html{
 }
 
 .logos{
-    width:8rem;
+    width:12rem;
+    height: 12rem;
 }
 
 .lista__item{
     font-size: 2rem;
 
+}
+
+.titulo{
+    font-size: 7rem;
+}
+
+.subtitulo{
+    font-size: 4rem;
 }

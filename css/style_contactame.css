@@ -5,3 +5,19 @@ html{
 .menu-nav__item .contactame{
     color:red;
 }
+
+.titulo{
+    font-size: 7rem;
+}
+
+.parrafo{
+    font-size: 3rem;
+}
+
+.formulario{
+    background-color: rgb(255, 0, 0);
+    font-size: 2rem;
+    padding: 2rem;
+    margin: left auto;
+    width: 30rem;
+}
