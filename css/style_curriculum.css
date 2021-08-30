@@ -1,8 +1,12 @@
+html{
+    font-size: 62.5%;
+}
+
 .menu-nav__item .curriculum{
     color:red;
 }
 
 iframe{
-    width: 80%;
-    height: 150vh;
+    width: 80rem;
+    height: 65rem;
 }

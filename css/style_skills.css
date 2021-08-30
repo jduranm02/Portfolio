@@ -1,7 +1,16 @@
+html{
+    font-size: 62.5%;
+}
+
 .menu-nav__item .skills{
     color:red;
 }
 
 .logos{
-    width:80px;
+    width:8rem;
+}
+
+.lista__item{
+    font-size: 2rem;
+
 }

@@ -1,9 +1,13 @@
+html{
+    font-size: 62.5%; /*sirve para poner 1 rem como si fuera 10px*/
+}
+
 body{
     background-color: black;
     color:white;
 }
 .menu-nav{
-    margin-top:10px;
+    margin-top:1rem;
     list-style: none;
     padding-left:center;
     background-color: black;
@@ -19,10 +23,10 @@ body{
 .menu-nav__item a{
     text-decoration: none;
     color: white;
-    padding:40px;
-    padding-right: 125px;
+    padding:4rem;
+    padding-right: 12.5rem;
     display: block;
-    font-size: 23px;
+    font-size: 2.3rem;
 }
 
 .menu-nav__item a:hover{
@@ -34,10 +38,10 @@ body{
 }
 .nombre{
     width: center;
-    height: 50px;
-    padding: 140px;
+    height: 5rem;
+    padding: 14rem;
     text-align: center;
-    font-size: 100px;
+    font-size: 10rem;
 }
 
 .about-me{
@@ -50,7 +54,7 @@ body{
 }
 
 .logos__item{
-    width: 40px;
+    width: 4rem;
     margin: center;
     display: inline-block;
     position: center;
