@@ -8,10 +8,14 @@ html{
 
 .titulo{
     font-size: 7rem;
+    position:relative;
+    left:5rem;
 }
 
 .parrafo{
     font-size: 3rem;
+    position:relative;
+    left:5rem;
 }
 
 .formulario{
@@ -20,4 +24,15 @@ html{
     padding: 2rem;
     margin: left auto;
     width: 30rem;
+    position:relative;
+    left:5rem;
+}
+
+.instagram{
+    font-size: 3rem;
+    position:relative;
+    left:5rem;
+    top:5rem;
+    text-decoration: none;
+    color:red;
 }

@@ -4,10 +4,14 @@ html{
 
 .lista_Certificados{
     font-size: 7rem;
+    position:relative;
+    left:5rem;
 }
 
 .lista{
     text-decoration: none;
+    position:relative;
+    left:5rem;
 }
 .lista__item a{
     text-decoration: none;

@@ -9,17 +9,25 @@ html{
 .logos{
     width:12rem;
     height: 12rem;
+    position:relative;
+    left:10rem;
 }
 
 .lista__item{
     font-size: 2rem;
+    position:relative;
+    left:5rem;
 
 }
 
 .titulo{
     font-size: 7rem;
+    position:relative;
+    left:5rem;
 }
 
 .subtitulo{
     font-size: 4rem;
+    position:relative;
+    left:5rem;
 }
