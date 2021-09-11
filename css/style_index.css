@@ -1,3 +1,14 @@
+/*:root{
+    --color_principal: black;
+    --color_secundario: red;
+    --fuenteprincipal_tamanio:4rem;
+
+    Cuando quiera utilizarlo en alguna clase
+    Ejemplo:
+    background-color: var(--color_principal);
+    font-size:var(--fuenteprincipal_tamanio);
+}*/
+
 html{
     font-size: 62.5%; /*sirve para poner 1 rem como si fuera 10px*/
 }

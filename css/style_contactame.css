@@ -28,11 +28,24 @@ html{
     left:5rem;
 }
 
+.lista_contacto{
+    list-style: none;
+}
+
 .instagram{
     font-size: 3rem;
     position:relative;
     left:5rem;
-    top:5rem;
+    top:1.5rem;
+    text-decoration: none;
+    color:red;
+}
+
+.linkedin{
+    font-size: 3rem;
+    position:relative;
+    left:5rem;
+    top:2rem;
     text-decoration: none;
     color:red;
 }
