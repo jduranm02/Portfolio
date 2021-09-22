@@ -2,10 +2,6 @@ html{
     font-size: 62.5%;
 }
 
-.menu-nav__item .contactame{
-    color:red;
-}
-
 .titulo{
     font-size: 7rem;
     position:relative;
@@ -47,5 +43,9 @@ html{
     left:5rem;
     top:2rem;
     text-decoration: none;
+    color:red;
+}
+
+.menu-nav__item .contactame{
     color:red;
 }

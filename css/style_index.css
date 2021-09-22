@@ -13,9 +13,11 @@ html{
     font-size: 62.5%; /*sirve para poner 1 rem como si fuera 10px*/
 }
 
+
 body{
     background-color: black;
     color:white;
+    overflow:hidden;
 }
 .menu-nav{
     margin-top:1rem;
@@ -35,7 +37,7 @@ body{
     text-decoration: none;
     color: white;
     padding:4rem;
-    padding-right: 12.5rem;
+    padding-right: 9.1rem;
     display: block;
     font-size: 2.3rem;
 }
@@ -55,22 +57,6 @@ body{
     font-size: 10rem;
 }
 
-.about-me{
-    width:center;
-    text-align: center;
-}
-
-.logos{
-    width: center;
-}
-
-.logos__item{
-    width: 4rem;
-    margin: center;
-    display: inline-block;
-    position: center;
-
-}
-.menu-nav__item .portafolio{
+.menu-nav__item .inicio{
     color:red;
 }

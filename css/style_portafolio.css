@@ -1,0 +1,13 @@
+html{
+    font-size: 62.5%;
+}
+
+.menu-nav__item .portafolio{
+    color:red;
+}
+
+.titulo{
+    font-size: 7rem;
+    position:relative;
+    left:5rem;
+}
